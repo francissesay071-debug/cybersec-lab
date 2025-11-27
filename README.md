@@ -1,1 +1,1 @@
-https://img.shields.io/github/repo-size/francissesay071-debug/cybersec-lab?style=flat-square)](#
+https://img.shields.io/github/stars/francissesay071-debug/cybersec-lab?style=flat-square)](
